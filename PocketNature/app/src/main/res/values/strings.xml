@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_title">Pocket Nature</string>
+    <string name="new_game_button">Start new game</string>
+    <string name="continue_game_button">Continue game</string>
+</resources>
